@@ -11,7 +11,7 @@ The application includes:
 * Basic routing and authentication logic
 
 The application is designed based on [Ulbi TV](https://www.youtube.com/@UlbiTV) video tutorials.
-Hosted review version of app is available [here](https://react-js-notes-list-app.vercel.app).
+Hosted review version of app is available [here](https://hello-react-js.vercel.app/).
 
 ## Stack
 
